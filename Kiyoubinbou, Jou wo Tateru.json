@@ -4,5 +4,14 @@
   "artist": "Sugan",
   "author": "Satou Kenyou",
   "cover": "https://otakuteca.com/images/books/cover/62d5a57a3ba2a.webp",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1750129392",
+      "groups": {
+        "WhitePearlTranslations": "https://zonatmo.com/viewer/71e63e85084e11494886266d71c9c7ad/cascade"
+      }
+    }
+  }
 }
