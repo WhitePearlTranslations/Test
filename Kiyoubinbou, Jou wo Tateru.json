@@ -10,7 +10,11 @@
       "volume": "1",
       "last_updated": "1750129392",
       "groups": {
-        "WhitePearlTranslations": "https://drive.google.com/drive/u/4/folders/1EtjkTtSvMyrUiVhCa4VreLaXK7NAW_5c"
+        "WhitePearlTranslations": [
+          "https://drive.usercontent.google.com/download?id=1jcoX1pET8QkHyKEYb1VlrDnab1I1KkKY",
+          "https://drive.usercontent.google.com/download?id=1J_UqzVYsc_f3E22xjtmvyeofyCKirWII",
+          "https://drive.usercontent.google.com/download?id=1BKr9EXTzEzJq0Ebzznq3A2UUJjzLLOGB"
+        ]
       }
     }
   }
