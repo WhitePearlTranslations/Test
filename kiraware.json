@@ -10,7 +10,9 @@
       "volume": "1",
       "last_updated": "1751254806",
       "groups": {
-        "WhitePearlTranslations": "https://catbox.moe/c/k426m8"
+        "WhitePearlTranslations": [
+          "https://catbox.moe/c/k426m8"
+        ]
       }
     }
   }
