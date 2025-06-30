@@ -3,16 +3,14 @@
   "description": "",
   "artist": "",
   "author": "",
-  "cover": "",
+  "cover": "https://catbox.moe/c/k426m8#gallery-1",
   "chapters": {
-    "6": {
-      "title": "6",
-      "volume": "",
-      "last_updated": "1750208595",
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1751254806",
       "groups": {
-        "whitepearl": [
-          "https://imgur.com/a/S37uVGL"
-        ]
+        "WhitePearlTranslations": "https://catbox.moe/c/k426m8"
       }
     }
   }
